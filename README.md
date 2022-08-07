@@ -14,7 +14,7 @@
   <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Davi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Davi-pic" height="150" style="border-radius:50px;" src="https://scontent.feoh4-3.fna.fbcdn.net/v/t39.30808-6/292383731_5472326039486233_1545058861324296678_n.jpg?stp=dst-jpg_p180x540&_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGn4AEB4Fea6KsGUrKarX8HXPcrUKW0-bZc9ytQpbT5tjNsmGhUuQ_QCsKy_S7diV7-yZFe7ISTIKC0n92_s381&_nc_ohc=Vx1xiCdDql4AX9i8fi8&_nc_ht=scontent.feoh4-3.fna&oh=00_AT-lP4V7GfMpdJdDpZV3HD-_W8H7sm7pe2NQiN-z1ZEBfg&oe=62C8D45E">
+  <img align="right" alt="Davi-pic" height="150" style="border-radius:50px;" src="https://scontent.feoh4-3.fna.fbcdn.net/v/t39.30808-6/292383731_5472326039486233_1545058861324296678_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGn4AEB4Fea6KsGUrKarX8HXPcrUKW0-bZc9ytQpbT5tjNsmGhUuQ_QCsKy_S7diV7-yZFe7ISTIKC0n92_s381&_nc_ohc=bLW5kL8qmxkAX_AOEVc&_nc_ht=scontent.feoh4-3.fna&oh=00_AT_jDag0HiQuVNEIaJbCR4-Dm5F1gVGWVPVgxbk6A6JrOA&oe=62F455DE">
 </div>
   
   ##
