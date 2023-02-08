@@ -4,7 +4,7 @@
   <a href="https://github.com/davig3t3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davig3t3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davig3t3&layout=compact&langs_count=7&theme=dracula"/>
-  <img align="right" alt="Davi-pic" height="250" style="border-radius:50px;" src="https://scontent.feoh4-4.fna.fbcdn.net/v/t39.30808-6/327926963_713810923521821_8405938269577804327_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHnKBf28a1dPnb1fPDlC64hS8rt0Y-CMaJLyu3Rj4Ixouvj1fo18hUcYMODSb4NGldzg-sc35zyThnBpqbobMQi&_nc_ohc=Ti39hWCoKX8AX9ylfhZ&_nc_ht=scontent.feoh4-4.fna&oh=00_AfATU0XjzjkvnQX_JbU-hFI3LAgVDUjQSR_VTSkxVtzSkg&oe=63E85DC0">
+  <img align="right" alt="Davi-pic" height="250" style="border-radius:50px;" src="https://scontent.feoh4-3.fna.fbcdn.net/v/t39.30808-6/292383731_5472326039486233_1545058861324296678_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGn4AEB4Fea6KsGUrKarX8HXPcrUKW0-bZc9ytQpbT5tjNsmGhUuQ_QCsKy_S7diV7-yZFe7ISTIKC0n92_s381&_nc_ohc=B5jbm-CfkCwAX8U5aQQ&_nc_ht=scontent.feoh4-3.fna&oh=00_AfDOrQoYI4qsV4-w-lwKxCchxZ2jCbckjqg3fnFBKI3XMw&oe=63E7929E">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Davi-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
